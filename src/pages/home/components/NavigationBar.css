@@ -1,0 +1,35 @@
+nav {
+  position: absolute;
+  height: 64px;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+
+  background: #272727;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+ul {
+  margin: 0;
+}
+
+li {
+  display: inline-block;
+  margin-right: 50px;
+}
+
+.navText {
+  font-family: "Inria Sans";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 58px;
+
+  color: #ffffff;
+}
+
+.navText:hover {
+  color: #ffffff;
+  text-decoration: underline;
+  text-decoration-color: #99adf6;
+}
