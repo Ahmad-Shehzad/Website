@@ -1,0 +1,12 @@
+.list-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.list-item {
+  margin-bottom: 45px;
+  margin-right: 22.5px;
+  margin-left: 22.55px;
+}

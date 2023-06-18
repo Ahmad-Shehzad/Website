@@ -1,0 +1,15 @@
+.summary-text {
+  position: absolute;
+  left: 12.44%;
+  right: 12.44%;
+  top: 52.72%;
+  bottom: 11.89%;
+
+  font-family: "Inria Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+}
