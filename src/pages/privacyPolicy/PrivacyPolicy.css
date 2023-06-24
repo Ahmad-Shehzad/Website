@@ -1,0 +1,23 @@
+.privacy-policy-title {
+  margin-top: 50px;
+  font-family: "Inria Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  color: #ffffff;
+}
+
+.privacy-policy-text {
+  margin: 10px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  font-family: "Inria Sans";
+  font-style: normal;
+  font-weight: 100;
+  font-size: 36px;
+  line-height: 43px;
+  text-align: left;
+
+  color: #ffffff;
+}

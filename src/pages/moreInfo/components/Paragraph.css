@@ -1,0 +1,25 @@
+.paragraph {
+  display: flex;
+  flex-direction: column;
+  padding-top: 50px;
+  text-align: left;
+}
+
+.paragraph-title {
+  font-family: "Inria Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 43px;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.paragraph-text {
+  font-family: "Inria Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 38px;
+  color: #ffffff;
+}

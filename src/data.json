@@ -1,6 +1,6 @@
 [
     {
-        "project": "Project Name",
+        "name": "Project Name",
         "summary": "A brief summary about what the application is and what the application does. This is example text, just for testing purposes.",
         "imageUrl": "/Website/test.jpg",
         "details": [
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "project": "Project Name 1",
+        "name": "Project Name 1",
         "summary": "A brief summary about what the application is and what the application does. This is example text, just for testing purposes.",
         "imageUrl": "/Website/test1.jpg",
         "details": [
