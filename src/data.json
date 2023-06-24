@@ -1,42 +1,70 @@
 [
     {
-        "name": "Project Name",
-        "summary": "A brief summary about what the application is and what the application does. This is example text, just for testing purposes.",
-        "imageUrl": "/Website/test.jpg",
+        "name": "POP POP",
+        "summary": "A bubble popping game to test your reflexes. Written using Godot game engine. The game features highscore tracking and power ups during the game.",
+        "imageUrl": "/Website/PopPop.png",
         "details": [
             {
-                "title": "Paragraph 1",
-                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "title": "About",
+                "content": "This game is centred about popping as many bubbles as possible. You start with three lives and can lose a life for every standard bubble not popped or for every red bubble popped. You can gain additional lives by popping green bubbles. The game tracks your highscore. The idea for the game came from my older cousin, who also assisted in the development process."
             },
             {
-                "title": "Paragraph 2",
-                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "title": "Technology",
+                "content": "The game is written using the Godot game engine with GDScript."
             }
         ],
         "privacyPolicy": [
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consequat semper viverra nam libero justo. A condimentum vitae sapien pellentesque habitant morbi tristique senectus et. Sed vulputate mi sit amet mauris commodo quis. Nulla aliquet enim tortor at. Convallis convallis tellus id interdum velit laoreet id donec ultrices. In nibh mauris cursus mattis molestie a iaculis at erat. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim. Tincidunt nunc pulvinar sapien et ligula ullamcorper. Euismod lacinia at quis risus sed vulputate. Senectus et netus et malesuada. Interdum posuere lorem ipsum dolor sit. Ac felis donec et odio. Eget lorem dolor sed viverra ipsum nunc aliquet. Non nisi est sit amet facilisis magna etiam.",
-            "Pellentesque massa placerat duis ultricies lacus sed turpis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Vitae suscipit tellus mauris a diam maecenas. Ullamcorper velit sed ullamcorper morbi tincidunt. Fermentum dui faucibus in ornare. Molestie a iaculis at erat pellentesque adipiscing. Justo donec enim diam vulputate. Convallis convallis tellus id interdum velit laoreet id donec. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Non blandit massa enim nec dui nunc mattis enim ut. Nisi quis eleifend quam adipiscing vitae proin. Fermentum posuere urna nec tincidunt praesent semper. Et egestas quis ipsum suspendisse ultrices gravida dictum. Bibendum enim facilisis gravida neque convallis a cras.",
-            "Nunc mattis enim ut tellus. Scelerisque mauris pellentesque pulvinar pellentesque habitant. Semper risus in hendrerit gravida rutrum quisque non. Ac tincidunt vitae semper quis lectus nulla. Imperdiet sed euismod nisi porta lorem mollis aliquam. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Sit amet mattis vulputate enim. At volutpat diam ut venenatis. Feugiat sed lectus vestibulum mattis ullamcorper. Felis eget velit aliquet sagittis id consectetur purus. Nullam non nisi est sit amet. Vel facilisis volutpat est velit egestas dui id ornare. Justo laoreet sit amet cursus."
+            "This Privacy Policy explains how Pop Pop, a bubble-popping game (\"the Game\"), handles user information and ensures privacy. We are committed to safeguarding the security and confidentiality of any data generated or provided during gameplay. Please read this policy carefully to understand our practices regarding your information.",
+            "1. Information Collection and Use",
+            "1.1. Game Data: The Game does not collect, use, or store any user data or personal information. We do not request or require any personal details, such as names, email addresses, or locations.",
+            "1.2. Device Information: The Game may access certain device information, such as device width and height. This information is solely utilized within the Game to determine dimensions and optimize the gameplay experience. We do not transmit or share this device information with any third parties.",
+            "1.3. High Score Storage: The Game allows users to store their high scores locally on their devices. This high score data is stored only on the user's device and is not transmitted or accessible to us or any external parties.",
+            "2. Information Security",
+            "2.1. Data Storage: As mentioned earlier, the Game does not collect or store any user data. High scores are saved locally on the user's device, ensuring that they remain private and inaccessible to us or any third parties.",
+            "2.2. Security Measures: We implement reasonable measures to safeguard the integrity and security of the Game. However, please note that no method of data transmission or storage is entirely secure, and we cannot guarantee absolute security for your information.",
+            "3. Age Restrictions",
+            "3.1. The Game is suitable for all ages. We do not collect any personal information from users, including children.",
+            "4. Changes to this Privacy Policy",
+            "4.1. We reserve the right to update or modify this Privacy Policy at any time. Any changes will be posted on this page with an updated effective date. It is your responsibility to review this Privacy Policy periodically to stay informed about how we handle your information.",
+            "5. Contact Us",
+            "5.1. If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at [contact email].",
+            "By using the Game, you signify your acceptance of this Privacy Policy. If you do not agree with this policy, please refrain from using the Game."
         ]
     },
     {
-        "name": "Project Name 1",
-        "summary": "A brief summary about what the application is and what the application does. This is example text, just for testing purposes.",
-        "imageUrl": "/Website/test1.jpg",
+        "name": "Geo Go",
+        "summary": "A flag guessing game. Written using flutter. The game features continent modes as well as some insightful stat tracking",
+        "imageUrl": "/Website/GeoGo.png",
         "details": [
             {
-                "title": "Paragraph 1",
-                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "title": "About",
+                "content": "The game is centred around being shown a flag and guessing the country. You have a maximum of three lives, and lose a life for every incorrectly answered question or if you run out of time. If you are struggling you have access to a hint which at the moment is just the capital city. There is also some pretty useful stat tracking involved which is broken down per continent."
             },
             {
-                "title": "Paragraph 2",
-                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "title": "Technology",
+                "content": "The application is written using flutter. The main source of information for the application comes from https://restcountries.com/."
             }
         ],
         "privacyPolicy": [
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consequat semper viverra nam libero justo. A condimentum vitae sapien pellentesque habitant morbi tristique senectus et. Sed vulputate mi sit amet mauris commodo quis. Nulla aliquet enim tortor at. Convallis convallis tellus id interdum velit laoreet id donec ultrices. In nibh mauris cursus mattis molestie a iaculis at erat. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim. Tincidunt nunc pulvinar sapien et ligula ullamcorper. Euismod lacinia at quis risus sed vulputate. Senectus et netus et malesuada. Interdum posuere lorem ipsum dolor sit. Ac felis donec et odio. Eget lorem dolor sed viverra ipsum nunc aliquet. Non nisi est sit amet facilisis magna etiam.",
-            "Pellentesque massa placerat duis ultricies lacus sed turpis. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Vitae suscipit tellus mauris a diam maecenas. Ullamcorper velit sed ullamcorper morbi tincidunt. Fermentum dui faucibus in ornare. Molestie a iaculis at erat pellentesque adipiscing. Justo donec enim diam vulputate. Convallis convallis tellus id interdum velit laoreet id donec. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Non blandit massa enim nec dui nunc mattis enim ut. Nisi quis eleifend quam adipiscing vitae proin. Fermentum posuere urna nec tincidunt praesent semper. Et egestas quis ipsum suspendisse ultrices gravida dictum. Bibendum enim facilisis gravida neque convallis a cras.",
-            "Nunc mattis enim ut tellus. Scelerisque mauris pellentesque pulvinar pellentesque habitant. Semper risus in hendrerit gravida rutrum quisque non. Ac tincidunt vitae semper quis lectus nulla. Imperdiet sed euismod nisi porta lorem mollis aliquam. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Sit amet mattis vulputate enim. At volutpat diam ut venenatis. Feugiat sed lectus vestibulum mattis ullamcorper. Felis eget velit aliquet sagittis id consectetur purus. Nullam non nisi est sit amet. Vel facilisis volutpat est velit egestas dui id ornare. Justo laoreet sit amet cursus."
+            "Thank you for using GeoGo, a flag guessing game that is suitable for all ages. At GeoGo, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, and safeguard any information you provide while using our application.",
+            "Section 1: Information We Collect",
+            "GeoGo is designed to be a privacy-conscious game and does not collect or use any personal data from its users. We do not require or request any personally identifiable information, such as your name, email address, or location.",
+            "Section 2: Use of Third-Party API",
+            "GeoGo integrates with a third-party API, specifically https://restcountries.com/, to retrieve information about countries and their flags. It's important to note that we do not send any user data to this API. The integration is solely used to enhance the gaming experience and provide accurate and up-to-date country information.",
+            "Section 3: Local Device Data Storage",
+            "GeoGo does not collect or store any personal data or statistics related to your gameplay. Any game statistics or performance data, such as scores, achievements, and progress, are stored locally on your device for your personal reference and enjoyment. We do not have access to this data, and it is not transmitted to our servers or any third parties.",
+            "Please note that all game statistics and performance data stored locally on your device are under your control, and we do not use this data for any purpose.",
+            "Section 4: Cookies and Similar Technologies",
+            "GeoGo does not use any cookies or similar tracking technologies to collect information about your usage of the application.",
+            "Section 5: Children's Privacy",
+            "GeoGo is suitable for users of all ages, including children. We do not knowingly collect any personal information from children under the age of 13. If we become aware that a child under 13 has provided us with personal information, we will take immediate steps to delete such information from our systems.",
+            "Section 6: Data Security",
+            "We take reasonable measures to protect the security and integrity of the information collected through GeoGo. However, please note that no method of transmission or storage over the internet is completely secure, and we cannot guarantee the absolute security of your data.",
+            "Section 7: Changes to this Privacy Policy",
+            "We may update this Privacy Policy from time to time to reflect changes in our practices or legal obligations. We encourage you to review this policy periodically for any updates. Your continued use of GeoGo after any modifications to the Privacy Policy will signify your acceptance of the revised terms.",
+            "Section 8: Contact Us",
+            "If you have any questions, concerns, or feedback regarding this Privacy Policy or GeoGo's privacy practices, please contact us at [contact email].",
+            "By using GeoGo, you agree to the terms and conditions outlined in this Privacy Policy. If you do not agree with any of these terms, please refrain from using the application."
         ]
     }
 ]
